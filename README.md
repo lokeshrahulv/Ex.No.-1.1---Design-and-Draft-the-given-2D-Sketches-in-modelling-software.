@@ -1,5 +1,7 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
-
+14/12/2022
+LOKESH RAHUL V V
+22004702
 ## AIM
 
 To sketch the given drawing with dimensions using fusion 360 tool.
@@ -42,6 +44,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+![image](https://user-images.githubusercontent.com/118423842/210196038-06f36ebf-2978-42df-9871-14428758d215.png)
 
 
 ## RESULT
